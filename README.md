@@ -18,11 +18,11 @@ greet("Steven") #=> ?
 2 . What does this method return?
 
 ```ruby
-def hate_steven?(name)
-  if name == "Steven"
-    "OMG He's the worst"
+def love_this_veggie?(vegetable)
+  if vegetable == "broccoli"
+    "Nah, thanks"
   else
-    "You cool"
+    "I love it!"
   end
 end
 ```
@@ -44,8 +44,8 @@ word_count("Hi, isn't this a great and interesting sentence??")
 5 . What will the following method return?
 
 ```ruby
-def rude_greeting(name=nil)
- name ||= "you jerk"
+def friendly_greeting(name=nil)
+ name ||= "friend"
  puts "Hey there, #{name}"
 end
 ```
