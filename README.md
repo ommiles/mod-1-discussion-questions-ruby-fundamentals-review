@@ -98,13 +98,13 @@ foods = {"pie" => "delicious", "broccoli" => "not delicious",
   end
 ```
 
-12 . Write a method that `puts` out a random Archer quote.
+12 . Write a method that `puts` out a random Agent Cooper quote.
 ```ruby
-  archer = {
-      "name" => "Sterling Mallory Archer",
-      "co-workers"=> ["Lana Kane", "Cyril Figgis", "Cheryl Tunt", "Pam Poovey", "Dr Krieger"],
-      "favorite_drink" => "Bloody Mary",
-      "Quotes" => ["I swear to god, I had something for this", "Phrasing", "Boop", "Danger Zone", "Read a book", "Do you not?", "Can't or won't?"]
+  cooper = {
+      "name" => "Dale Bartholomew Cooper",
+      "co-workers"=> ["Diane", "Sheriff Harry S. Truman"],
+      "favorite_drink" => "Coffee",
+      "Quotes" => ["Damn fine cup of coffee", "Diane...", "This must be where pies go when they die", "That's what you do in a town where a yellow light still means slow down, not go faster.", "Every day, once a day, give yourself a present", "I have no idea where this will lead us, but I have a definite feeling it will be a place both wonderful and strange."]
   }
 ```
 
