@@ -108,4 +108,4 @@ foods = {"pie" => "delicious", "broccoli" => "not delicious",
   }
 ```
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/immersive-week-1-discussion-questions'>Immersive Week 1 Discussion Questions</a> on Learn.co and start learning to code for free.</p>
+
