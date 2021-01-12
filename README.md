@@ -99,6 +99,7 @@ foods = {"pie" => "delicious", "broccoli" => "not delicious",
 ```
 
 12 . Write a method that `puts` out a random Agent Cooper quote.
+
 ```ruby
   cooper = {
       "name": "Dale Bartholomew Cooper",
